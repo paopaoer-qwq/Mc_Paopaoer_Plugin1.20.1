@@ -19,7 +19,7 @@ commands:
   paopaoer:
     description: PAOPAOER插件主指令（包含时间查询等子功能）
     usage: /<command> <subcommand>  # 用<subcommand>表示“子指令”语义，符合MC指令规范
-    aliases: [ppr],[paopaoer]                 # 可选别名，简化输入
+    aliases: [ppr,paopaoer]                 # 可选别名，简化输入
     permission: paopaoer.use        # 可选权限节点（默认所有人可用）
     permission-message: §c你没有权限使用该指令！  # 权限不足提示（可选）
 
