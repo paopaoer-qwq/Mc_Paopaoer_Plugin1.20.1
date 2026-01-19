@@ -1,7 +1,7 @@
 # 插件基础信息
 name: PaopaoerPlugin
 main: org.example.paopaoerPlugin1201.PaopaoerPlugin  # 包名+主类名，和代码完全匹配
-version: 1.1
+version: 1.1.1
 author: paopaoer
 description: 破土豆服务器1.20.1整活插件
 api-version: 1.20.1  # 适配1.20.1版本的核心API版本（必须加）
